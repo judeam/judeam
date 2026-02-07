@@ -1,32 +1,62 @@
-# Hi there, I'm Jude Adam 👋
+# Jude Mingay
 
-I'm a Computer Science Master's student at the University of Freiburg, diving deep into the world of **Computer Vision** and **Machine Learning**. My goal is to leverage these cutting-edge technologies to build intelligent systems that solve real-world problems. I'm on a journey to become an **ML Engineer** and contribute to the ever-evolving landscape of artificial intelligence.
+**AI/ML Engineer & Strategist** -- Freiburg, Germany
 
----
-
-## 🚀 What I'm Currently Focused On
-
-* 📚 Pursuing my Master's degree in Computer Science in the vibrant city of Freiburg.
-* 👁️‍🗨️ Currently working on projects and research related to **Computer Vision**, exploring how machines can interpret and understand the visual world.
-* 💻 Honing my skills to bridge the gap between research and production as an aspiring **ML Engineer**.
+I build production-grade AI systems, not just chatbots. Specializing in Computer Vision, Edge Deployment, and Custom Deep Learning Architectures with 3+ years of production experience. MSc candidate in AI at the University of Freiburg.
 
 ---
 
-## 🔬 My Research Interests
+## What I Do
 
-I'm particularly fascinated by the following areas and always keen to explore and contribute to them:
-
-* 🧠 **Meta-Learning:** Learning to learn and enabling models to adapt quickly to new tasks with minimal data.
-* 🏗️ **Neural Architecture Search (NAS):** Automating the design of optimal neural network architectures.
-* 🤖 **Vision Transformers (ViTs):** Exploring the power of transformer models in computer vision tasks.
-* 🖼️ **Panoptic Segmentation:** Developing models that can perform both instance and semantic segmentation simultaneously for a comprehensive scene understanding.
-
----
+- **Computer Vision** -- Object detection, segmentation, and custom vision models (YOLO, RF-DETR, Transformers)
+- **Edge & Inference** -- High-performance deployment with TensorRT, Triton Inference Server, and ONNX
+- **AutoML & Optimization** -- Hyperparameter optimization, neural architecture search, and meta-learning
+- **Data Engineering** -- Annotation pipelines, synthetic data generation, and RAG systems with vector databases
+- **Time Series & Forecasting** -- Predictive modeling, anomaly detection, and demand forecasting
+- **Industrial Protocols** -- IEC 61850, IEC 60870, ICCP TASE.2 for energy and utility systems
 
 ---
 
-## 📫 How to reach me:
+## Featured Projects
 
-* 🔗 [www.linkedin.com/in/jude-m-01b48923b]
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[AIM](https://aim.io/)** | AI-powered football coaching platform -- end-to-end ML pipeline from custom annotation tooling to production deployment | RF-DETR, RTMPose, TensorRT, GNN, RAG |
+| **[FledgePower](https://lfenergy.org/projects/fledgepower/)** | Multi-protocol gateway for power grid interoperability (LF Energy, open source) | IEC 61850, TASE.2, IEC 104, C/C++ |
+| **[FiscFox](https://github.com/judeam/FiscFox)** | Privacy-first German tax management with local AI, ML forecasting, and OCR | FastAPI, TabPFN, Ollama |
+| **[StepMaker](https://github.com/2002Bishwajeet/stepmaker)** | Transforms CAD assemblies into multilingual work instructions with 3D viewer | Next.js, Three.js, FastAPI |
+| **[Greenvisor](https://greenvisor.vercel.app)** | Cyclic RAG advisor for German home energy efficiency using knowledge graphs | LangChain, Neo4J, FastAPI |
+| **HPO4TabPFN** | Research: discovered smaller, deeper TabPFN models outperform larger configs; Muon optimizer dominated across all scales | TabPFN, NePS, Muon |
+| **AutoML Text Classifier** | Research: architecture-agnostic AutoML with custom proxy search spaces for optimizer selection | DEHB, NePS, LSTM |
 
 ---
+
+## Technical Stack
+
+**ML & AI:** PyTorch, Deep Learning, Computer Vision, Object Detection, Segmentation, Transformers, Time Series, YOLO, RF-DETR, RAG Systems
+
+**MLOps & Infra:** TensorRT, Triton Server, Docker, GCP, Modal, Weights & Biases, Vector DBs, ONNX, Roboflow
+
+**AutoML & Research:** Hyperparameter Optimization, Neural Architecture Search, Meta-Learning, TabPFN, Synthetic Data, Hugging Face
+
+**Languages:** Python, Java, C/C++, C#/.NET, SQL, FastAPI, LangChain
+
+---
+
+## Experience
+
+- **Senior ML Engineer (Freelance)** -- Big Picture Software, Remote (Nov 2025 -- Present)
+- **ML Engineer (Freelance)** -- Big Picture Software, Remote (Apr -- Nov 2025)
+- **Software Engineer** -- MZ Automation GmbH, Freiburg (May 2024 -- Mar 2025)
+- **Junior Software Engineer** -- Gridcore Labs, Portugal (Jul 2023 -- Apr 2024)
+- **Research Assistant** -- Universidade do Algarve, Portugal (Mar -- Jul 2023)
+
+---
+
+## Get in Touch
+
+- **Email:** hello@judemingay.com
+- **LinkedIn:** [judemingay](https://linkedin.com/in/judemingay)
+- **GitHub:** [judeam](https://github.com/judeam)
+
+I speak English, German, and Portuguese -- all at native level.
