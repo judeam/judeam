@@ -45,8 +45,8 @@ I build production-grade AI systems, not just chatbots. Specializing in Computer
 
 ## Experience
 
-- **Senior ML Engineer (Freelance)** -- Big Picture Software, Remote (Nov 2025 -- Present)
-- **ML Engineer (Freelance)** -- Big Picture Software, Remote (Apr -- Nov 2025)
+- **AI Lead (Contract)** -- Big Picture Software, Remote (Nov 2025 -- Present)
+- **ML Engineer (Contract)** -- Big Picture Software, Remote (Apr -- Nov 2025)
 - **Software Engineer** -- MZ Automation GmbH, Freiburg (May 2024 -- Mar 2025)
 - **Junior Software Engineer** -- Gridcore Labs, Portugal (Jul 2023 -- Apr 2024)
 - **Research Assistant** -- Universidade do Algarve, Portugal (Mar -- Jul 2023)
@@ -55,8 +55,7 @@ I build production-grade AI systems, not just chatbots. Specializing in Computer
 
 ## Get in Touch
 
-- **Email:** hello@judemingay.com
+- **Contact:** [Book a call](https://judemingay.com)
 - **LinkedIn:** [judemingay](https://linkedin.com/in/judemingay)
-- **GitHub:** [judeam](https://github.com/judeam)
 
 I speak English, German, and Portuguese -- all at native level.
