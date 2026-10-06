@@ -10,7 +10,7 @@
 
 I'm Jude, a freelance AI engineer in Freiburg, Germany. I build computer vision, machine learning, and LLM systems for product teams and take them from experiment to production: data and annotation, models, deployment, and the interface people actually use.
 
-MSc candidate in AI at the University of Freiburg. I work in English, German, and Portuguese, all at native level.
+I studied for an MSc in AI at the University of Freiburg (2024–2026, not completed). I work in English, German, and Portuguese, all at native level.
 
 ## Recent work: AIM
 
