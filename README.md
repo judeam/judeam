@@ -42,7 +42,8 @@ I studied for an MSc in AI at the University of Freiburg (2024–2026, not compl
 |---|---|---|
 | **[Sports AI Feasibility Sprint](https://judemingay.com/services/sports-ai-feasibility-sprint)** | Find out whether your footage and data can support the product. I review the data, test the riskiest component, and map out the architecture and next steps. | 1–2 weeks |
 | **[AI Pipeline Performance Audit](https://judemingay.com/services/ai-pipeline-performance-audit)** | Find what is costing you accuracy, time, or money. I benchmark the pipeline and prioritize improvements to the models, infrastructure, and deployment. | 1–3 weeks |
-| **[End-to-End AI Product Build](https://judemingay.com/services/end-to-end-ai-product-build)** | One technical owner from data and annotation through models, integration, and production, with monitoring, documentation, and team handoff. | Scoped to your product |
+| **[AI Assistant Pilot](https://judemingay.com/services/ai-assistant-pilot)** | A working assistant on your own data and systems, with tools, guardrails, and evaluations, running in staging. A voice mode is optional. | 2–3 weeks |
+| **[End-to-End AI Product Build](https://judemingay.com/services/end-to-end-ai-product-build)** | One technical owner for the whole product, from data and models through the web app, API, and production, with monitoring, documentation, and team handoff. | Scoped to your product |
 
 Working outside sports, or unsure where to start? [Tell me about your AI problem](https://judemingay.com/?contact=open&source=github#contact). I reply personally within one business day.
 
